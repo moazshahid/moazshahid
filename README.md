@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👨‍💻 Moaz Shahid
+# Moaz Shahid
 
-### Full Stack Developer · AI & Computer Vision · Dubai, UAE 🇦🇪
+**Full Stack Developer · AI & Computer Vision · Dubai, UAE 🇦🇪**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-shahid-384564272)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moazshahid43@gmail.com)
@@ -12,18 +12,18 @@
 
 ---
 
-## $ whoami
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=moazshahid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-```python
-moaz = {
-    "role"       : "Full Stack Developer & AI/CV Enthusiast",
-    "location"   : "Dubai, UAE",
-    "education"  : "B.Sc. Information Technology — Curtin University (CGPA 3.57 | Top 1%)",
-    "focus"      : ["Computer Vision", "AI Integration", "System Design", "Real-time Apps"],
-    "currently"  : "Building projects. Always.",
-    "open_to"    : "AI/ML, Full-Stack, and System Integration roles"
-}
-```
+### 🙋‍♂️ About Me
+
+- 🎓 B.Sc. IT graduate from **Curtin University Dubai** — CGPA **3.57 (Top 1%)**
+- 🏆 Three-time **Vice-Chancellor's List** award recipient
+- 🤖 Passionate about **AI integration**, **computer vision**, and building real-time systems
+- 🛠️ I build things across the full stack — from low-level socket programming to React frontends
+- 🌱 Currently expanding my portfolio with projects in ML, networking & automation
+- 💼 Open to roles in **AI/ML**, **Full-Stack**, and **System Integration**
+
+<br clear="right"/>
 
 ---
 
@@ -133,6 +133,8 @@ Technical support for a 1,000-delegate international conference — resolved 10+
 ---
 
 <div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=moazshahid&theme=tokyonight&hide_border=true)
 
 *Always exploring. Always building.*
 
