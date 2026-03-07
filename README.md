@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=180&section=header&text=Moaz%20Shahid&fontSize=65&fontColor=00d4ff&fontAlignY=40&desc=Building%20at%20the%20edge%20of%20AI%2C%20Vision%20%26%20Full-Stack&descAlignY=62&descColor=ffffff&descSize=18" />
+# 👨‍💻 Moaz Shahid
+
+### Full Stack Developer · AI & Computer Vision · Dubai, UAE 🇦🇪
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-shahid-384564272)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moazshahid43@gmail.com)
-[![Location](https://img.shields.io/badge/Dubai,%20UAE-%23FF6B6B?style=flat-square&logo=google-maps&logoColor=white)](#)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=moazshahid.moazshahid&style=flat-square&color=00d4ff)](https://github.com/moazshahid)
 
 </div>
 
@@ -15,7 +17,7 @@
 ```python
 moaz = {
     "role"       : "Full Stack Developer & AI/CV Enthusiast",
-    "location"   : "Dubai, UAE 🇦🇪",
+    "location"   : "Dubai, UAE",
     "education"  : "B.Sc. Information Technology — Curtin University (CGPA 3.57 | Top 1%)",
     "focus"      : ["Computer Vision", "AI Integration", "System Design", "Real-time Apps"],
     "currently"  : "Building projects. Always.",
@@ -56,7 +58,7 @@ moaz = {
 ![Socket Programming](https://img.shields.io/badge/Socket%20Programming-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Multithreading](https://img.shields.io/badge/Multithreading-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Server Config](https://img.shields.io/badge/Server%20Hardening-555555?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Server Hardening](https://img.shields.io/badge/Server%20Hardening-555555?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 **DevOps & Tools**
 
@@ -133,9 +135,5 @@ Technical support for a 1,000-delegate international conference — resolved 10+
 <div align="center">
 
 *Always exploring. Always building.*
-
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=moazshahid.moazshahid&style=flat-square&color=00d4ff)](https://github.com/moazshahid)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer" />
 
 </div>
