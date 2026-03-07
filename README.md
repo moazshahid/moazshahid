@@ -81,7 +81,7 @@
 
 > *This repo is a living portfolio — more projects are being added regularly.*
 
-### 🎮 Vision Play Hub
+### 🎮 [Vision Play Hub](https://github.com/moazshahid/Vision-Play-Hub)
 **`Python` `React` `Django` `PostgreSQL` `MediaPipe` `Docker` `OAuth`**
 
 A full-stack gesture-controlled gaming platform that lets users play directly in the browser — no controller needed. Built with a real-time computer vision pipeline using MediaPipe, served through a Django backend and a React frontend, containerized with Docker.
@@ -133,10 +133,6 @@ Technical support for a 1,000-delegate international conference — resolved 10+
 ---
 
 <div align="center">
-
-![Moaz's GitHub Stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=moazshahid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=moazshahid&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Contribution Graph](https://ghchart.rshah.org/00d4ff/moazshahid)
 
