@@ -1,53 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Moaz%20Shahid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20CV%20Enthusiast%20%7C%20Dubai%2C%20UAE&descAlignY=58&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=180&section=header&text=Moaz%20Shahid&fontSize=65&fontColor=00d4ff&fontAlignY=40&desc=Building%20at%20the%20edge%20of%20AI%2C%20Vision%20%26%20Full-Stack&descAlignY=62&descColor=ffffff&descSize=18" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-shahid-384564272)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moazshahid43@gmail.com)
-[![Location](https://img.shields.io/badge/Dubai%2C%20UAE-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Dubai,UAE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-shahid-384564272)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moazshahid43@gmail.com)
+[![Location](https://img.shields.io/badge/Dubai,%20UAE-%23FF6B6B?style=flat-square&logo=google-maps&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 👋 About Me
+## $ whoami
 
-I'm a **fresh IT graduate from Curtin University Dubai** with a CGPA of **3.57 (89.2%)** and a three-time **Vice-Chancellor's List Award** recipient (Top 1% of undergraduates). I build things that sit at the intersection of **AI, full-stack development, and real-world systems** — from gesture-controlled games to enterprise-grade operations tools.
-
-Currently working as a **Partner Training Intern at Careem**, where I handle system validation, hardware deployment, and platform integration at scale.
-
-> *"I enjoy solving problems where software meets the physical world."*
+```python
+moaz = {
+    "role"       : "Full Stack Developer & AI/CV Enthusiast",
+    "location"   : "Dubai, UAE 🇦🇪",
+    "education"  : "B.Sc. Information Technology — Curtin University (CGPA 3.57 | Top 1%)",
+    "focus"      : ["Computer Vision", "AI Integration", "System Design", "Real-time Apps"],
+    "currently"  : "Building projects. Always.",
+    "open_to"    : "AI/ML, Full-Stack, and System Integration roles"
+}
+```
 
 ---
 
-## 🚀 Featured Project
+## ⚙️ Tech Stack
 
-### 🎮 [Vision Play Hub](https://github.com/moazshahid)
-> *A full-stack, gesture-controlled gaming platform — no controller required.*
-
-```
-Python · React · Django · PostgreSQL · MediaPipe · Docker · OAuth · Bitbucket
-```
-
-- 🖐️ Real-time **computer vision** (MediaPipe) for controller-free browser gameplay
-- ⚡ Reduced input latency by **25%** across 30+ concurrent users
-- 🐳 Deployed with **Docker** for scalability and portability
-- 🔐 Secure auth via **OAuth**, version-controlled on **Bitbucket**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
+**Core Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Databases**
 
@@ -55,70 +42,100 @@ Python · React · Django · PostgreSQL · MediaPipe · Docker · OAuth · Bitbu
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & DevOps**
+**AI / ML / CV**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**Libraries & Data**
-
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
+**Systems & Low-Level**
+
+![Socket Programming](https://img.shields.io/badge/Socket%20Programming-black?style=for-the-badge&logo=linux&logoColor=white)
+![Multithreading](https://img.shields.io/badge/Multithreading-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Server Config](https://img.shields.io/badge/Server%20Hardening-555555?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Networking & Security**
+
+![Cisco](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CyberOps](https://img.shields.io/badge/CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
-## 💼 Experience
+## 🔨 Projects
 
-| Role | Company | Period |
-|------|---------|--------|
-| 🟣 **Partner Training Intern** | Careem | Oct 2025 – Present |
-| 🔵 **IT Support Assistant** | Nexa Events – GTR MENA 2025 | Feb 2025 |
+> *This repo is a living portfolio — more projects are being added regularly.*
+
+### 🎮 Vision Play Hub
+**`Python` `React` `Django` `PostgreSQL` `MediaPipe` `Docker` `OAuth`**
+
+A full-stack gesture-controlled gaming platform that lets users play directly in the browser — no controller needed. Built with a real-time computer vision pipeline using MediaPipe, served through a Django backend and a React frontend, containerized with Docker.
+
+- ⚡ Achieved **25% reduction in input latency** for real-time gesture recognition
+- 👥 Deployed and tested across **30+ concurrent users**
+- 🔐 Secure authentication via **OAuth**
+- 🐳 Fully containerized for scalable deployment
+
+---
+
+*📌 More projects covering networking, systems programming, cybersecurity, and automation coming soon.*
 
 ---
 
 ## 🏅 Certifications
 
-| Certification | Issuer |
-|--------------|--------|
-| 🛡️ CyberOps Associate | Cisco Networking Academy |
-| 🔒 Network Security | Cisco Networking Academy |
-| ☁️ AWS Academy – Cloud Foundations | Amazon Web Services |
-| 🌐 CCNA2 & CCNA3 | Cisco Networking Academy |
+| | Certification | Issuer |
+|-|--------------|--------|
+| 🛡️ | CyberOps Associate | Cisco Networking Academy |
+| 🔒 | Network Security | Cisco Networking Academy |
+| 🌐 | CCNA2 & CCNA3 | Cisco Networking Academy |
+| ☁️ | AWS Academy – Cloud Foundations | Amazon Web Services |
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science in Information Technology**
-📍 Curtin University, Dubai — CGPA **3.57 / 4.0 (89.2%)**
+**B.Sc. Information Technology** — Curtin University, Dubai
+`CGPA 3.57 / 4.0 (89.2%)` · `2022 – 2025`
 
-🏆 **Vice-Chancellor's List** — 3× recipient (Top 1% of undergraduates, 2023 & 2024)
-🎓 **Academic Excellence Scholarship** recipient
+- 🏆 **Vice-Chancellor's List** — 3× recipient · Top 1% of undergraduates (2023 & 2024)
+- 🎓 **Academic Excellence Scholarship** recipient
 
 ---
 
-## 🧠 Areas of Interest
+<details>
+<summary>📌 <b>Other Experience</b></summary>
+<br>
 
-```
-🤖 AI & Machine Learning        🖥️  Computer Vision
-🔗 System Integration           🌐  Full Stack Development  
-🔒 Network & Cyber Security     ☁️  Cloud Infrastructure
-⚡ Real-time Systems            🐳  DevOps & Containerization
-```
+**Partner Training Intern @ Careem** *(Oct 2025 – Present)*
+System validation, hardware deployment, and platform integration in an operational environment.
+
+**IT Support Assistant @ Nexa Events – GTR MENA 2025** *(Feb 2025)*
+Technical support for a 1,000-delegate international conference — resolved 10+ live issues under time pressure.
+
+</details>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+*Always exploring. Always building.*
 
-*Open to exciting opportunities in AI/ML, full-stack development, and system integration in Dubai and beyond.*
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=moazshahid.moazshahid&style=flat-square&color=00d4ff)](https://github.com/moazshahid)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer" />
 
 </div>
