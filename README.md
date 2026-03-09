@@ -93,6 +93,18 @@ A full-stack gesture-controlled gaming platform that lets users play directly in
 
 ---
 
+### 🕹️ [Escape Game](https://github.com/moazshahid/Escape-Game)
+**`C` `Linux` `Windows` `Terminal`**
+
+A terminal-based grid escape game written in C. Navigate a player through a collapsing grid to reach the goal before being trapped. Built from scratch in C with dynamic memory management, real-time keypress input, and compile-time feature flags.
+
+- 🧠 Implements dynamic 2D grid allocation with full **malloc/free** memory management
+- ⌨️ Real-time input handling via **termios** (Linux) and **conio.h** (Windows) — no Enter key needed
+- 🌀 Optional **Borderless mode** via compile-time flag (`-DBORDERLESS`), enabling wrap-around movement
+- 🪟 Cross-platform — runs on both **Linux and Windows** (MinGW-w64)
+
+---
+
 *📌 More projects covering networking, systems programming, cybersecurity, and automation coming soon.*
 
 ---
