@@ -102,7 +102,7 @@ An automated daily pipeline that scrapes remote job boards, filters postings by 
 - 🧠 Scores each posting 1–10 using Claude Haiku based on role fit and keywords
 - 📊 Logs every scored job to Google Sheets for tracking and review
 - 🐳 Fully self-hosted via Docker Compose, One command to run the project.
-- 
+
 ---
 
 ### 🕹️ [Escape Game](https://github.com/moazshahid/Escape-Game)
