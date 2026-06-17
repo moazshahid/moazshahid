@@ -93,6 +93,18 @@ A full-stack gesture-controlled gaming platform that lets users play directly in
 
 ---
 
+### 🤖 [RoleScore — AI Job Alert Pipeline](https://github.com/moazshahid/RoleScore)
+**`n8n` `Claude API` `Docker` `RSS` `Telegram Bot API` `Google Sheets`**
+
+An automated daily pipeline that scrapes remote job boards, filters postings by keyword, scores each one for relevance using Claude AI, logs all results to Google Sheets, and delivers a curated digest to Telegram every morning — zero manual effort required.
+
+- 🔍 Fetches live job listings from multiple RSS feeds (RemoteOK, Jobicy, Himalayas)
+- 🧠 Scores each posting 1–10 using Claude Haiku based on role fit and keywords
+- 📊 Logs every scored job to Google Sheets for tracking and review
+- 🐳 Fully self-hosted via Docker Compose, One command to run the project.
+- 
+---
+
 ### 🕹️ [Escape Game](https://github.com/moazshahid/Escape-Game)
 **`C` `Linux` `Windows` `Terminal`**
 
